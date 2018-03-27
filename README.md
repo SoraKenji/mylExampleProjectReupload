@@ -34,8 +34,7 @@ MyL Example Project is intented to be a showcase of programming skills in order 
  ### March 27th, 2018 - Today's ToDo list:
 - [x] Make a "Build" folder and makes and exe file of project.
 - [x] Check exe file open at 1280x720 by default without Unity's default configuration screen.
-- [ ] **Scene 0:** `Main Menu`
-- [x] **Scene 1:** `Basic Programming Skills`
+- [ ] **Scene 1:** `Basic Programming Skills`
  - - [x] Add "question & answer" to proper `data structure`.
 - [x] **Scene 3:** `Graphics` 
  - - [x] Usage of *Google Maps Geocoding* (GMG) API. Querying  `latitude ` and  `longitude ` by  `address `.
@@ -51,4 +50,3 @@ MyL Example Project is intented to be a showcase of programming skills in order 
 - Because of time:
   - Couldn't finish Scene 01 questions and animations, but most of it is done.
   - Couldn't finish Scene 04 Usage of events with `ScriptableObjects` to: `Increase damage`, `Decrease damage`, `Destroy`.
-"# mylExampleProjectReupload" 
