@@ -34,8 +34,7 @@ MyL Example Project is intented to be a showcase of programming skills in order 
  ### March 27th, 2018 - Today's ToDo list:
 - [x] Make a "Build" folder and makes and exe file of project.
 - [x] Check exe file open at 1280x720 by default without Unity's default configuration screen.
-- [] **Scene 0:** `Main Menu`
- - - [] Add Title.
+- [ ] **Scene 0:** `Main Menu`
 - [x] **Scene 1:** `Basic Programming Skills`
  - - [x] Add "question & answer" to proper `data structure`.
 - [x] **Scene 3:** `Graphics` 
