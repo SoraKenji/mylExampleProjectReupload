@@ -1,5 +1,7 @@
 # "Mitos & Leyendas" Example Project
 
+# YOU HAVE TO ADD A FIREWALL EXCEPTION ON WINDOWS SINCE, BY DEFAULT, WINDOWS BLOCKS UNITY HTTP REQUESTS / TIENES QUE AñADIR UNA EXCEPCION DE FIREWALL EN WINDOWS PARA QUE UNITY FUNCIONE CORRECTAMENTE CON LOS HTTP REQUEST
+
 MyL Example Project is intented to be a showcase of programming skills in order to apply to a non-specific job.
 
 ## Edits
