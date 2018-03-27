@@ -41,7 +41,7 @@ MyL Example Project is intented to be a showcase of programming skills in order 
  - - [x] Usage of *Google Maps* API. Show a Map with a marker by getting  `latitude ` and  `longitude ` of a place from GMG query.
  - - [x] Decide on how to show `Latest Posts` and `Comments`.
  - - [x] Usage of REST API with Unity3D by querying[`https://jsonplaceholder.typicode.com`](https://jsonplaceholder.typicode.com/).
-- [x] **Scene 4:** `ScriptableObjects & Logic` 
+- [ ] **Scene 4:** `ScriptableObjects & Logic` 
  - - [x] Usage of bitwise for property & habilities and of a "Mitos y Leyendas" Card.
  - - [x] Usage of `ScriptableObjects` to create new instance of cards with their own configurations.
  - - [ ] Usage of events with `ScriptableObjects` to: `Increase damage`, `Decrease damage`, `Destroy`.
