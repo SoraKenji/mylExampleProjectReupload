@@ -1,5 +1,7 @@
 # "Mitos & Leyendas" Example Project
 
+# YOU HAVE TO ADD A FIREWALL EXCEPTION ON WINDOWS SINCE, BY DEFAULT, WINDOWS BLOCKS UNITY EXECUTABLES' HTTP REQUESTS / TIENES QUE AñADIR UNA EXCEPCION DE FIREWALL EN WINDOWS PARA QUE EL EJECUTABLE DE UNITY FUNCIONE CORRECTAMENTE CON LOS HTTP REQUEST
+
 MyL Example Project is intented to be a showcase of programming skills in order to apply to a non-specific job.
 
 ## Edits
@@ -34,15 +36,14 @@ MyL Example Project is intented to be a showcase of programming skills in order 
  ### March 27th, 2018 - Today's ToDo list:
 - [x] Make a "Build" folder and makes and exe file of project.
 - [x] Check exe file open at 1280x720 by default without Unity's default configuration screen.
-- [ ] **Scene 0:** `Main Menu`
-- [x] **Scene 1:** `Basic Programming Skills`
+- [ ] **Scene 1:** `Basic Programming Skills`
  - - [x] Add "question & answer" to proper `data structure`.
 - [x] **Scene 3:** `Graphics` 
  - - [x] Usage of *Google Maps Geocoding* (GMG) API. Querying  `latitude ` and  `longitude ` by  `address `.
  - - [x] Usage of *Google Maps* API. Show a Map with a marker by getting  `latitude ` and  `longitude ` of a place from GMG query.
  - - [x] Decide on how to show `Latest Posts` and `Comments`.
  - - [x] Usage of REST API with Unity3D by querying[`https://jsonplaceholder.typicode.com`](https://jsonplaceholder.typicode.com/).
-- [x] **Scene 4:** `ScriptableObjects & Logic` 
+- [ ] **Scene 4:** `ScriptableObjects & Logic` 
  - - [x] Usage of bitwise for property & habilities and of a "Mitos y Leyendas" Card.
  - - [x] Usage of `ScriptableObjects` to create new instance of cards with their own configurations.
  - - [ ] Usage of events with `ScriptableObjects` to: `Increase damage`, `Decrease damage`, `Destroy`.
@@ -51,4 +52,3 @@ MyL Example Project is intented to be a showcase of programming skills in order 
 - Because of time:
   - Couldn't finish Scene 01 questions and animations, but most of it is done.
   - Couldn't finish Scene 04 Usage of events with `ScriptableObjects` to: `Increase damage`, `Decrease damage`, `Destroy`.
-"# mylExampleProjectReupload" 
