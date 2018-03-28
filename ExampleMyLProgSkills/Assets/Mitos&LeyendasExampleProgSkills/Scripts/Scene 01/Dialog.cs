@@ -53,7 +53,6 @@ public class Dialog : MonoBehaviour {
                 showingDialog = false;
                 robotLight.changeColor(1);
                 currentQuestionIndex = UnityEngine.Random.Range(0, 9);
-                //currentQuestionIndex = 2;
                 _scene01Controller.createQuestion(currentQuestionIndex);
                 panelofDialog.SetActive(false);
                 panelofQuestionAnswers.transform.GetChild(0).GetComponent<Text>().text = _scene01Controller.getQuestionAnswer().Question;
@@ -64,7 +63,7 @@ public class Dialog : MonoBehaviour {
 
     IEnumerator robotQuestion()
     {
-        yield return new WaitForSeconds(1.5f);
+        yield return new WaitForSeconds(0.5f);
         panelofQuestionAnswers.SetActive(true);
 
     }

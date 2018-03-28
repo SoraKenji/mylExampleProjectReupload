@@ -1416,6 +1416,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   loadingScreen: {fileID: 0}
   sldLoader: {fileID: 0}
+  sldTextPerc: {fileID: 0}
 --- !u!114 &1438021364
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1560,6 +1561,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   loadingScreen: {fileID: 1799124585}
   sldLoader: {fileID: 1122916587}
+  sldTextPerc: {fileID: 585665729}
 --- !u!4 &1539375264
 Transform:
   m_ObjectHideFlags: 0

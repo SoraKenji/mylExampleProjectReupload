@@ -7,7 +7,7 @@ public class LoaderLevels : MonoBehaviour {
 
     public GameObject loadingScreen;
     public Slider sldLoader;
-    Text sldTextPerc;
+    public Text sldTextPerc;
 
 
     public void LoadLevel(int sceneIndex)
